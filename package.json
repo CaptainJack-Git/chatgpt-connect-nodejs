@@ -1,0 +1,27 @@
+{
+  "name": "chatgpt-connect-nodejs",
+  "version": "0.0.1",
+  "description": "使用 nodejs 连接 chatgpt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptainJack-Git/chatgpt-connect-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "chatgpt",
+    "proxy"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptainJack-Git/chatgpt-connect-nodejs/issues"
+  },
+  "homepage": "https://github.com/CaptainJack-Git/chatgpt-connect-nodejs#readme",
+  "dependencies": {
+    "chatgpt": "^5.1.3"
+  }
+}

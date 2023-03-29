@@ -45,7 +45,13 @@ chatgpt 不仅提供了网页版，还提供了 api 的接口，可以实现很�
    start();
    ```
 
-4. 返回值如下，可以从 text 里面看到 chatgpt 的会话返回结果 ✅
+4. 开始执行
+
+   ```bash
+   npm start
+   ```
+
+5. 返回值如下，可以从 text 里面看到 chatgpt 的会话返回结果 ✅
 
    ```json
    {
